@@ -1019,3 +1019,21 @@ body > .section.main-13 {
 .swiper-button-prev,.swiper-button-prev-02,.swiper-button-prev-03,.swiper-button-prev-04, .swiper-button-prev-05 {
     cursor: pointer;
 }
+
+.popup-wrap {
+    max-width: 1175px;
+    width: 100%;
+    background: #000;
+    margin: 0 auto;
+    padding: 200px 0 0 0;
+}
+
+.pop-title {
+    font-size: 35px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.pop-wrap .sub-label {
+    margin-bottom: 20px;
+}
