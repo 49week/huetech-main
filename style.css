@@ -1396,3 +1396,17 @@ body > .section.main-13 {
     margin-top: 30px;
     margin-bottom: 200px;
 }
+
+.gray-color {
+    font-size: 16px;
+    color: #5e5f60;
+    font-weight: 500;
+}
+
+.mg-bt-40 {
+    margin-bottom: 40px;
+}
+
+.pd-bt-0 {
+    padding-bottom: 0;
+}
