@@ -1107,3 +1107,20 @@ body > .section.main-13 {
     color: #5e5f60;
     font-weight: 500;
 }
+
+.mg-bt-65 {
+    margin-bottom: 65px;
+}
+
+.youtube-wrap {
+    width: 865px;
+    height: 490px;
+    margin: 0 auto;
+}
+
+
+.mugic-title {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
