@@ -1025,15 +1025,27 @@ body > .section.main-13 {
     width: 100%;
     background: #000;
     margin: 0 auto;
-    padding: 200px 0 0 0;
+    padding: 200px 0;
 }
 
 .pop-title {
     font-size: 35px;
     color: #fff;
     font-weight: 500;
+    margin-bottom: 20px;
 }
 
 .pop-wrap .sub-label {
     margin-bottom: 20px;
+}
+
+.pop-sub-title {
+    color: #fff;
+    font-size: 17px;
+    font-weight: 300;
+    letter-spacing: 5px;
+}
+
+.text-sub-img {
+    margin-top: 65px;
 }
